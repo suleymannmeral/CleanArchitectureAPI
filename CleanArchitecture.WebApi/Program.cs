@@ -12,6 +12,9 @@ builder.Services.AddControllers()
     .AddApplicationPart(typeof(
     CleanArchitecture.Presentation.AssemblyReference).Assembly);  //controllera başka bir katmanda devam edecegini soyledik
 
+builder.Services.AddMediatR(cfr =>
+ cfr.RegisterServicesFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly));
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
