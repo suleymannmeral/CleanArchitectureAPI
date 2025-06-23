@@ -2,6 +2,7 @@
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Persistence.Context;
 using CleanArchitecture.Persistence.Services;
+using CleanArchitecture.WebApi.Middleware;
 using FluentValidation;
 using MediatR;
 
@@ -11,6 +12,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<ICarService, CarService>();
 builder.Services.AddAutoMapper(typeof(CleanArchitecture.Persistence.AssemblyReference).Assembly);
+
+builder.Services.AddTransient<ExceptionMiddleware>(); // Creates a new instance every time it's requested
+
 // Add services to the container.
 string connectionString = builder.Configuration.GetConnectionString("SqlServer");
 
@@ -24,7 +28,7 @@ builder.Services.AddMediatR(cfr =>
  cfr.RegisterServicesFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly));
 
 builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
-builder.Services.AddValidatorsFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly);
+builder.Services.AddValidatorsFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly); //CleanArchitecture.Application.AssemblyReference sınıfının olduğu assembly içindeki tüm AbstractValidator<> türevlerini otomatik bulur
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -38,6 +42,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddlewareExtensions();
 
 app.UseHttpsRedirection();
 
