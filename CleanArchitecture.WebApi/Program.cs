@@ -1,8 +1,16 @@
-﻿using CleanArchitecture.Persistence.Context;
+﻿using CleanArchitecture.Application.Behaviours;
+using CleanArchitecture.Application.Services;
+using CleanArchitecture.Persistence.Context;
+using CleanArchitecture.Persistence.Services;
+using FluentValidation;
+using MediatR;
+
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<ICarService, CarService>();
+builder.Services.AddAutoMapper(typeof(CleanArchitecture.Persistence.AssemblyReference).Assembly);
 // Add services to the container.
 string connectionString = builder.Configuration.GetConnectionString("SqlServer");
 
@@ -14,6 +22,9 @@ builder.Services.AddControllers()
 
 builder.Services.AddMediatR(cfr =>
  cfr.RegisterServicesFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly));
+
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
+builder.Services.AddValidatorsFromAssembly(typeof(CleanArchitecture.Application.AssemblyReference).Assembly);
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

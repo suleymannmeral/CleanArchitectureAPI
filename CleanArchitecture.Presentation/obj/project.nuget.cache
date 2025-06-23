@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ixeOaBoXxaQ=",
+  "dgSpecHash": "Qf+u261d97s=",
   "success": true,
   "projectFilePath": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\suley\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

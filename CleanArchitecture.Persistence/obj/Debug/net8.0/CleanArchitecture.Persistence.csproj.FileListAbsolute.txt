@@ -16,3 +16,5 @@ C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.pdb
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\CleanArchitecture.Persistence.genruntimeconfig.cache
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\ref\CleanArchitecture.Persistence.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.pdb
