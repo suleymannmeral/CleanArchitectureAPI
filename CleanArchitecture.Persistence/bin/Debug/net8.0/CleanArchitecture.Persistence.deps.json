@@ -1075,6 +1075,17 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/8.0.4": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/GenericRepository.dll": {
+            "assemblyVersion": "8.0.4.0",
+            "fileVersion": "8.0.4.0"
+          }
+        }
+      },
       "CleanArchitecture.Application/1.0.0": {
         "dependencies": {
           "CleanArchitecture.Domain": "1.0.0",
@@ -1089,6 +1100,9 @@
         }
       },
       "CleanArchitecture.Domain/1.0.0": {
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "8.0.4"
+        },
         "runtime": {
           "CleanArchitecture.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -1677,6 +1691,13 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "TS.EntityFrameworkCore.GenericRepository/8.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kOij3VDeZiYaKsCJAJC2zNkkUQ0G4qQMsTWq++Mu7a+LrN82FX6Q2+h1x3Md3qdpOOlDNQ95dDoA32dl3PZvVw==",
+      "path": "ts.entityframeworkcore.genericrepository/8.0.4",
+      "hashPath": "ts.entityframeworkcore.genericrepository.8.0.4.nupkg.sha512"
     },
     "CleanArchitecture.Application/1.0.0": {
       "type": "project",
