@@ -14,3 +14,5 @@ C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArhcitecture.Shared.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArhcitecture.Shared.pdb

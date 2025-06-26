@@ -1,5 +1,6 @@
 ﻿using CleanArchitecture.Application.Behaviours;
 using CleanArchitecture.Application.Services;
+using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.Repositories;
 using CleanArchitecture.Persistence.Context;
 using CleanArchitecture.Persistence.Repositories;
@@ -8,7 +9,7 @@ using CleanArchitecture.WebApi.Middleware;
 using FluentValidation;
 using GenericRepository;
 using MediatR;
-
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,10 +21,18 @@ builder.Services.AddTransient<ExceptionMiddleware>(); // Creates a new instance 
 
 builder.Services.AddScoped<IUnitOfWork>(cfr => cfr.GetRequiredService<AppDbContext>());
 builder.Services.AddScoped<ICarRepository, CarRepository>();
+builder.Services.AddScoped<IAuthService, AuthService>();     //IAuthService çağrılıdğında AuthService classını ver
 // Add services to the container.
 string connectionString = builder.Configuration.GetConnectionString("SqlServer");
 
 builder.Services.AddDbContext<AppDbContext>(options=> options.UseSqlServer(connectionString));
+
+builder.Services.AddIdentity<User, IdentityRole>(options =>
+{
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequiredLength = 1;
+    options.Password.RequireUppercase = false;       // customizing password
+}).AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(

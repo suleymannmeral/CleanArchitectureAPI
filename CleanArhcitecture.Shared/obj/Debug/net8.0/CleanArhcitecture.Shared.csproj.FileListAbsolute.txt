@@ -1,0 +1,13 @@
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\bin\Debug\net8.0\CleanArhcitecture.Shared.deps.json
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\bin\Debug\net8.0\CleanArhcitecture.Shared.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\bin\Debug\net8.0\CleanArhcitecture.Shared.pdb
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.csproj.AssemblyReference.cache
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.AssemblyInfo.cs
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.sourcelink.json
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\refint\CleanArhcitecture.Shared.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\CleanArhcitecture.Shared.pdb
+C:\Users\suley\source\repos\CleanArchitecture\CleanArhcitecture.Shared\obj\Debug\net8.0\ref\CleanArhcitecture.Shared.dll

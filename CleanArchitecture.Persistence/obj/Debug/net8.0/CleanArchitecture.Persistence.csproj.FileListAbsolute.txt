@@ -18,3 +18,5 @@ C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net8.0\ref\CleanArchitecture.Persistence.dll
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.dll
 C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArhcitecture.Shared.dll
+C:\Users\suley\source\repos\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net8.0\CleanArhcitecture.Shared.pdb
