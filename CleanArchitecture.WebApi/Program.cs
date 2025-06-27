@@ -2,6 +2,7 @@
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.Repositories;
+using CleanArchitecture.Infrastructure.Services;
 using CleanArchitecture.Persistence.Context;
 using CleanArchitecture.Persistence.Repositories;
 using CleanArchitecture.Persistence.Services;
@@ -22,6 +23,7 @@ builder.Services.AddTransient<ExceptionMiddleware>(); // Creates a new instance 
 builder.Services.AddScoped<IUnitOfWork>(cfr => cfr.GetRequiredService<AppDbContext>());
 builder.Services.AddScoped<ICarRepository, CarRepository>();
 builder.Services.AddScoped<IAuthService, AuthService>();     //IAuthService çağrılıdğında AuthService classını ver
+builder.Services.AddScoped<IMailService, MailService>();
 // Add services to the container.
 string connectionString = builder.Configuration.GetConnectionString("SqlServer");
 
