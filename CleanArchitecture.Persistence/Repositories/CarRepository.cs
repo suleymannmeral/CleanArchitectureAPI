@@ -2,18 +2,13 @@
 using CleanArchitecture.Domain.Repositories;
 using CleanArchitecture.Persistence.Context;
 using GenericRepository;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CleanArchitecture.Persistence.Repositories
+
+namespace CleanArchitecture.Persistence.Repositories;
+
+public class CarRepository : Repository<Car, AppDbContext>, ICarRepository
 {
-    public class CarRepository : Repository<Car, AppDbContext>, ICarRepository
+    public CarRepository(AppDbContext context) : base(context)
     {
-        public CarRepository(AppDbContext context) : base(context)
-        {
-        }
     }
 }

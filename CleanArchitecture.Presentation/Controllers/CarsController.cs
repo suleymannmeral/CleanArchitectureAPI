@@ -2,6 +2,7 @@
 using CleanArchitecture.Application.Features.CarFeatures.Queries.GetAllCar;
 using CleanArchitecture.Domain.Dtos;
 using CleanArchitecture.Domain.Entities;
+using CleanArchitecture.Infrastructure.Authorization;
 using CleanArchitecture.Presentation.Abstraction;
 using CleanArhcitecture.Shared.Models;
 using MediatR;
@@ -15,6 +16,7 @@ public sealed class CarsController : ApiController
     {
     }
 
+    [RoleFilter("Admin")]
     [HttpPost("[action]")]
     public async Task<IActionResult>Create(CreateCarCommand request,CancellationToken cancellationToken)
     {
@@ -22,6 +24,7 @@ public sealed class CarsController : ApiController
         return Ok(response);
     }
 
+    [RoleFilter("Moderator")]
     [HttpPost("[action]")]
 
     public async Task<IActionResult> GetAll(GetAllCarQuery request, CancellationToken cancellationToken)

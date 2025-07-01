@@ -7,7 +7,6 @@ using CleanArchitecture.Domain.Repositories;
 using CleanArhcitecture.Shared.Extensions;
 using CleanArhcitecture.Shared.Models;
 using GenericRepository;
-using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Persistence.Services;
 
@@ -29,8 +28,6 @@ public sealed class CarService : ICarService
     {
      
         Car car = _mapper.Map<Car>(request);
-        //await _appContext.Set<Car>().AddAsync(car,cancellationToken);
-        //await _appContext.SaveChangesAsync(cancellationToken);
         await _carRepository.AddAsync(car,cancellationToken);
         await _unitOfWork.SaveChangesAsync(cancellationToken);
     }
