@@ -10,7 +10,7 @@
 - 🔧 **Swagger API** (for API Documentation)  
 - 🔧 **Code First Approach**
 
-  ## 🧠 Proje Yapısı ve Mimarisi
+  ## 🧠 Project Structure & Architecture
 
 - 🚀 **Clean Architecture**  
 - 🚀 **CQRS Design Pattern**
