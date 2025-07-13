@@ -16,7 +16,7 @@ public sealed class CarsController : ApiController
     {
     }
 
-    [RoleFilter("Admin")]
+    [RoleFilter("Moderator")]
     [HttpPost("[action]")]
     public async Task<IActionResult>Create(CreateCarCommand request,CancellationToken cancellationToken)
     {
@@ -25,6 +25,7 @@ public sealed class CarsController : ApiController
     }
 
     [RoleFilter("Moderator")]
+
     [HttpPost("[action]")]
 
     public async Task<IActionResult> GetAll(GetAllCarQuery request, CancellationToken cancellationToken)
