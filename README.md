@@ -26,6 +26,8 @@ Bu projede Clean Architecture yapısı temel alınarak katmanlı bir mimari beni
 |----------------------|----------|
 | **Domain Katmanı**   | (Bu katman, uygulamanın iş kurallarını ve temel varlıklarını içerir. Diğer katmanlara bağımlı değildir.) |
 | **Application Katmanı** | (Uygulamanın use case'lerini ve iş akışlarını içerir. Domain katmanına bağımlıdır ama dış katmanlara bağımlı değildir.) |
+| **Persistence Katmanı** | (Uygulamanın veritabanı işlemlerini içerir) |
+| **Unit Test** | (Unit testler) |
 | **Infrastructure Katmanı** | (Veritabanı işlemleri, dış servislerle iletişim gibi altyapı ile ilgili işlemler burada bulunur.) |
 | **Presentation Katmanı**      | (Kullanıcıdan gelen isteklerin alındığı ve dış dünyaya açılan uç noktalardır. Controller yapıları burada bulunur.) |
 | **WEBAPI Katmanı**      | (Projenin konfigrasyonu işlemelerini içermektedir.(DI kayıtları, Middlewareler vs....) |
