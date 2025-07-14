@@ -32,10 +32,21 @@ Bu projede Clean Architecture yapısı temel alınarak katmanlı bir mimari beni
 
 
 > 🔄 Bu yapı sayesinde, her bir katman birbirinden ayrılmış olur ve bakım, test edilebilirlik ile ölçeklenebilirlik artar.
+>
+
+## 🏗 Architecture & Design Patterns
+
+| Desen Adı             | Açıklama                                                                                             |
+|-----------------------|----------------------------------------------------------------------------------------------------|
+| **Repository Pattern** | Veri erişimini soyutlayarak, veri katmanının yönetimini kolaylaştırır ve uygulamadan bağımsız kılar.|
+| **Dependency Injection** | Bağımlılıkların dışarıdan verilmesini sağlayarak, kodun test edilebilirliğini ve esnekliğini artırır.|
+| **Unit of Work**       | Birden fazla repository işlemini tek bir işlem olarak yönetmeyi sağlar (SaveChanges).               |
+| **CQRS Design Pattern**       | Command, Query Sorumluluk Ayrımı (CQRS), bir veri deposu için okuma ve yazma işlemlerini ayrı veri modellerine ayıran bir tasarım kalıbıdır.  |
+
+
 
 ## 📌 Notlar
 
-- Projede CQRS tasarım deseni kullanılmıştır.
 - Kod yapısı `Clean Code` prensiplerine uygun olarak yazılmaya özen gösterilmiştir.
 
 ---
