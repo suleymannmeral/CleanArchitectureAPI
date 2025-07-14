@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CleanArhcitecture.Shared\CleanArhcitecture.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\MotorbikeFeatures\Queries\GetAllMotorbike\" />
+  </ItemGroup>
+
 </Project>

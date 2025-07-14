@@ -16,6 +16,7 @@ namespace CleanArchitecture.Persistence.Configurations
             builder.ToTable("Motorbikes");
             builder.HasKey(m => m.Id);
             builder.HasIndex(p => p.Brand);  // performanıs arttırır
+            builder.Property(p=>p.Price).HasColumnType("money");
 
         }
     }

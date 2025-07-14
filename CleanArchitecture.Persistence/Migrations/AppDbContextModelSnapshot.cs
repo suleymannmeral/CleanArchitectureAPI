@@ -98,7 +98,7 @@ namespace CleanArchitecture.Persistence.Migrations
                         .HasColumnType("int");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("money");
 
                     b.Property<DateTime?>("UpdateDate")
                         .HasColumnType("datetime2");

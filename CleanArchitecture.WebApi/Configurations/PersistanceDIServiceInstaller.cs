@@ -18,12 +18,14 @@ public class PersistanceDIServiceInstaller : IServiceInstaller
         services.AddTransient<ExceptionMiddleware>(); // Creates a new instance every time it's requested
         services.AddScoped<IUnitOfWork>(cfr => cfr.GetRequiredService<AppDbContext>());
         services.AddScoped<ICarRepository, CarRepository>();
+        services.AddScoped<IMotorbikeRepository, MotorbikeRepository>();
         services.AddScoped<ICarService, CarService>();
         services.AddScoped<IUserRoleRepository, UserRoleRepository>();
         services.AddScoped<IAuthService, AuthService>();     //IAuthService çağrılıdğında AuthService classını ver
         services.AddScoped<IMailService, MailService>();
         services.AddScoped<IRoleService, RoleService>();
         services.AddScoped<IUserRoleService, UserRoleService>();
+        services.AddScoped<IMotorbikeService, MotorbikeService>();
 
     }
 }

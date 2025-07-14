@@ -80,6 +80,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.MotorbikeController",
+    "Method": "Create",
+    "RelativePath": "api/Motorbike/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.MotorbikeFeatures.Commands.CreateMotorbike.CreateMotorbikeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CleanArchitecture.Presentation.Controllers.RolesController",
     "Method": "Create",
     "RelativePath": "api/Roles/Create",

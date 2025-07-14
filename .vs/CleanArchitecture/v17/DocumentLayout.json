@@ -3,60 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\configurations\\motorbikeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\configurations\\motorbikeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\entities\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\motorbikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\motorbikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\middleware\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\motorbikefeatures\\commands\\createmotorbike\\createmotorbikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\presentationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\authorizeserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,76 +55,52 @@
       "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\persistancediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\infrastructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\infrastructurediserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\configurations\\iserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\configurations\\iserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.infrastructure\\authorization\\rolefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authorization\\rolefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.infrastructure\\authorization\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authorization\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.webapi\\cleanarchitecture.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2317CF0D-3094-46FD-90FB-ACFF2931F76E}|CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:cleanarchitecture.webapi\\cleanarchitecture.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6EDFF0-D4CB-420B-9139-0E405E8349F9}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\configurations\\motorbikeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\configurations\\motorbikeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.presentation\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E94D06-0153-4B6D-8B6A-9E14852570F9}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\entities\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\services\\motorbikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\services\\motorbikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\services\\imotorbikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\imotorbikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3055FD0A-C259-49DA-8C8F-AD26CC262CD9}|CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:cleanarchitecture.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D640865-BB12-4DBF-BC8C-AAA4307B9638}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\repositories\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\suley\\source\\repos\\cleanarchitecture\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AEBDB2-6ACE-45E9-BFCE-A2B34570C9C1}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -163,416 +127,327 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250713221326_motorbikeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Migrations\\20250713221326_motorbikeEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:13:26.232Z",
+              "WhenOpened": "2025-07-14T00:18:26.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CarConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\CarConfiguration.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Configurations\\CarConfiguration.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\CarConfiguration.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Configurations\\CarConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:12:04.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MotorbikeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:11:28.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Car.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Car.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Car.cs",
-              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:09:33.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Motorbike.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Motorbike.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Motorbike.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Motorbike.cs",
-              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Motorbike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:09:28.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\CarService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Services\\CarService.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\CarService.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Services\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:57:22.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvygAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:34:40.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorResult.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\ErrorResult.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Middleware\\ErrorResult.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\ErrorResult.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Middleware\\ErrorResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:34:35.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:03:46.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PersistanceServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:00:19.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthorizeServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:58:25.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PersistanceDIServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:51:56.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CarsController.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:08:55.614Z"
+              "WhenOpened": "2025-07-14T00:13:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotorbikeController.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\MotorbikeController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\MotorbikeController.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\MotorbikeController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\MotorbikeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:12:50.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250714000936_mg22.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Migrations\\20250714000936_mg22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:09:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersistanceDIServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceDIServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:07:12.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MiddleWareExtension.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\MiddleWareExtension.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Middleware\\MiddleWareExtension.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Middleware\\MiddleWareExtension.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Middleware\\MiddleWareExtension.cs",
+              "Title": "PersistanceServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PersistanceServiceInstaller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:35:26.341Z"
+              "WhenOpened": "2025-07-14T00:06:31.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateMotorbikeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:08:24.803Z"
+              "WhenOpened": "2025-07-13T23:46:54.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateMotorbikeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommand.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:38:27.085Z"
+              "WhenOpened": "2025-07-13T23:45:28.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "CreateMotorbikeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeValidator.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\MotorbikeFeatures\\Commands\\CreateMotorbike\\CreateMotorbikeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:56:33.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PresentationServiceInstaller.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
               "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\PresentationServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:05:52.026Z"
+              "WhenOpened": "2025-07-14T00:07:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorizeServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\AuthorizeServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:06:55.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationServiceInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\ApplicationServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:06:51.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:06:21.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:07:26.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InfrastructureDIServiceInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\InfrastructureDIServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:56:37.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "IServiceInstaller.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
               "RelativeToolTip": "CleanArchitecture.WebApi\\Configurations\\IServiceInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:50:04.323Z"
+              "WhenOpened": "2025-07-14T00:06:17.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
-              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:58:24.347Z"
+              "WhenOpened": "2025-07-14T00:06:00.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RoleAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
-              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "CleanArchitecture.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.http",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebApi\\CleanArchitecture.WebApi.http",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.http",
+              "RelativeToolTip": "CleanArchitecture.WebApi\\CleanArchitecture.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-14T00:05:59.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MotorbikeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Configurations\\MotorbikeConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:00:25.86Z"
+              "WhenOpened": "2025-07-14T00:01:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCarCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:46:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCarCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:45:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Motorbike.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Motorbike.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\Motorbike.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Entities\\Motorbike.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\Motorbike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:45:15.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "RoleFilterAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
-              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "MotorbikeService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\MotorbikeService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Services\\MotorbikeService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\MotorbikeService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Services\\MotorbikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T12:12:11.446Z"
+              "WhenOpened": "2025-07-13T23:50:51.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\CarService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistence\\Services\\CarService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:51:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMotorbikeService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IMotorbikeService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IMotorbikeService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IMotorbikeService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IMotorbikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:48:53.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "UserRolesController.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\UserRolesController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\UserRolesController.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\UserRolesController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\UserRolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ICarService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:09:05.177Z"
+              "WhenOpened": "2025-07-13T23:48:57.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Presentation\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:08:41.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Services\\RoleService.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\RoleService.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Services\\RoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:01:35.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\CarRepository.cs",
+              "Title": "CreateCarCommand.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:00:01.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UserRoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Repositories\\UserRoleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:59:12.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IUserRoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Domain\\Repositories\\IUserRoleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:58:17.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserRoleService.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\UserRoleService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistence\\Services\\UserRoleService.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Persistence\\Services\\UserRoleService.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistence\\Services\\UserRoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:57:19.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IUserRoleService.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IUserRoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:54:54.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateUserRoleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:53:32.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CreateUserRoleCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:51:18.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CreateUserRoleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:50:07.432Z"
+              "WhenOpened": "2025-07-13T23:45:25.3Z",
+              "EditorCaption": ""
             }
           ]
         }
