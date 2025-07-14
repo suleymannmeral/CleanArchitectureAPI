@@ -43,6 +43,8 @@ Bu projede Clean Architecture yapısı temel alınarak katmanlı bir mimari beni
 | **Unit of Work**       | Birden fazla repository işlemini tek bir işlem olarak yönetmeyi sağlar (SaveChanges).               |
 | **CQRS Design Pattern**       | Command, Query Sorumluluk Ayrımı (CQRS), bir veri deposu için okuma ve yazma işlemlerini ayrı veri modellerine ayıran bir tasarım kalıbıdır.  |
 
+<img width="1887" height="922" alt="image" src="https://github.com/user-attachments/assets/3f0df388-fc1d-4e9f-b3be-20fd262301fd" />
+
 
 
 ## 📌 Notlar
