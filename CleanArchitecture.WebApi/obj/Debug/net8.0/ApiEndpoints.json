@@ -96,6 +96,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.MotorbikeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Motorbike/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.MotorbikeFeatures.Queries.GetAllMotorbike.GetAllMotorbikeQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CleanArchitecture.Presentation.Controllers.RolesController",
     "Method": "Create",
     "RelativePath": "api/Roles/Create",

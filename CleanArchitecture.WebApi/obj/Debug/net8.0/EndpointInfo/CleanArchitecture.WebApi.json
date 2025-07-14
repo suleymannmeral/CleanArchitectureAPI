@@ -191,6 +191,37 @@
         }
       }
     },
+    "/api/Motorbike/GetAll": {
+      "post": {
+        "tags": [
+          "Motorbike"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllMotorbikeQuery"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllMotorbikeQuery"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllMotorbikeQuery"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Roles/Create": {
       "post": {
         "tags": [
@@ -335,6 +366,24 @@
         "additionalProperties": false
       },
       "GetAllCarQuery": {
+        "type": "object",
+        "properties": {
+          "pageNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "search": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "GetAllMotorbikeQuery": {
         "type": "object",
         "properties": {
           "pageNumber": {
