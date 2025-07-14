@@ -11,9 +11,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchitecture.Presentation.Controllers;
 
-public sealed class MotorbikeController : ApiController
+public sealed class MotorbikesController : ApiController
 {
-    public MotorbikeController(IMediator mediator) : base(mediator)
+    public MotorbikesController(IMediator mediator) : base(mediator)
     {
     }
     [HttpPost("[action]")]
